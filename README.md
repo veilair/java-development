@@ -1,7 +1,7 @@
 # Java Development
 > Welcome to the world of Java Development. An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about Java Development. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Table of Contents
+## `Table of Contents`
 
 - [Projects](#projects)
   - [Bean Mapping](#bean-mapping)
@@ -82,9 +82,9 @@
   - [Websites](#websites)
   - [Web links](#web-links)
 
-## Projects
+## `Projects`
 
-### Bean Mapping
+### `Bean Mapping`
 
 _Frameworks that ease bean mapping._
 
@@ -96,7 +96,7 @@ _Frameworks that ease bean mapping._
 - [reMap](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 - [Selma](https://github.com/xebia-france/selma) - Annotation processor-based bean mapper.
 
-### Build
+### `Build`
 
 _Tools that handle the build cycle and dependencies of an application._
 
@@ -105,7 +105,7 @@ _Tools that handle the build cycle and dependencies of an application._
 - [Buck](https://github.com/facebook/buck) - Encourages the creation of small, reusable modules consisting of code and resources.
 - [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
-### Bytecode Manipulation
+### `Bytecode Manipulation`
 
 _Libraries to manipulate bytecode programmatically._
 
@@ -118,7 +118,7 @@ _Libraries to manipulate bytecode programmatically._
 - [Mixin](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 - [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
 
-### Caching
+### `Caching`
 
 _Libraries that provide caching facilities._
 
@@ -127,7 +127,7 @@ _Libraries that provide caching facilities._
 - [Ehcache](http://www.ehcache.org) - Distributed general-purpose cache.
 - [Infinispan](https://infinispan.org) - Highly concurrent key/value datastore used for caching.
 
-### CLI
+### `CLI`
 
 _Libraries for everything related to the CLI._
 
@@ -145,14 +145,14 @@ _Libraries for everything related to the CLI._
 - [Text-IO](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 - [Lanterna](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
 
-### Cluster Management
+### `Cluster Management`
 
 _Frameworks that can dynamically manage applications inside of a cluster._
 
 - [Apache Aurora](https://aurora.apache.org) - Mesos framework for long-running services and cron jobs.
 - [Singularity](http://getsingularity.com) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 
-### Code Analysis
+### `Code Analysis`
 
 _Tools that provide metrics and quality measurements._
 
@@ -167,7 +167,7 @@ _Tools that provide metrics and quality measurements._
 - [Spoon](https://github.com/INRIA/spoon) - Library for analyzing and transforming Java source code.
 - [Spotbugs](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
-### Code Coverage
+### `Code Coverage`
 
 _Frameworks and tools that enable code coverage metrics collection for test suites._
 
