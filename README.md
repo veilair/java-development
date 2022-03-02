@@ -2206,3 +2206,10 @@ A curated list of awesome Java frameworks, libraries and software.
 * [liweiwei1419/LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style) - 我的 LeetCode 做题记录，正在加紧练习中。
 * [Martin404/PayMap](https://github.com/Martin404/PayMap) - Java后端实现三方支付集成支付宝（国内、国际、移动端、PC端）、微信、银联（acp、upop）、光大（网关、网页）、邮政支付
 * [MachinePublishers/jBrowserDriver](https://github.com/MachinePublishers/jBrowserDriver) - A programmable, embeddable web browser driver compatible with the Selenium WebDriver spec -- headless, WebKit-based, pure Java
+  
+  ### `Licenses`
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
