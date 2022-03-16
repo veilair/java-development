@@ -489,7 +489,7 @@ _Libraries that handle serialization to hypermedia types._
 - [JSON-LD](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation.
 - [Siren4J](https://github.com/eserating-chwy/siren4j) - Library for the Siren specification.
 
-### IDE
+### `IDE`
 
 _Integrated development environments that try to simplify several aspects of development._
 
@@ -534,7 +534,7 @@ _Libraries for scheduling background jobs._
 - [easy-batch](https://github.com/j-easy/easy-batch) - Set up batch jobs with simple processing pipelines. Records are read in sequence from a data source, processed in pipeline and written in batches to a data sink.
 - [shedlock](https://github.com/lukas-krecan/ShedLock) - Makes sure that your scheduled tasks are executed at most once at the same time. If a task is being executed on one node, it acquires a lock which prevents execution of the same task from another node or thread.
 
-### JSON
+### `JSON`
 
 _Libraries for serializing and deserializing JSON to and from Java objects._
 
@@ -555,7 +555,7 @@ _Libraries for serializing and deserializing JSON to and from Java objects._
 - [JsonPath](https://github.com/json-path/JsonPath) - Extract data from JSON using XPATH-like syntax.
 - [JsonSurfer](https://github.com/jsurfer/JsonSurfer) - Streaming JsonPath processor dedicated to processing big and complicated JSON data.
 
-### JVM and JDK
+### `JVM and JDK`
 
 _Current implementations of the JVM/JDK._
 
